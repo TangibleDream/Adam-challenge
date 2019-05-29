@@ -13,7 +13,8 @@ The fields are
  - comma
  - pipe
  - space 
-The sorts are by
+
+The file is sorted by
 
  - gender (female, male) then last name ascending
  - birth date ascending
